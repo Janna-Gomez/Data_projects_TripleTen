@@ -8,12 +8,11 @@ An unnamed property rental agency would like to guidence on property investments
  
  | File # | Title | Description |
  | :-----------: | ----------- |----------- |
- | 1 | Manhattan Vacation Rental | The spreadsheet to download.|
- | 2 | Fresh Beats Data | Data source provided by Tripleten used for analysis. |
+ | 1 | Manhattan Vacation Rental | Data source provided by Tripleten used for analysis.|
+ | 2 | Table of Contents |  |
  | 3 | README.md | Current page provides information of project description. |
  | 4 | Rubric | File of rubric provided by course to complete project.|
-  | 5 | Requirements | Provides information of project description. |
- 
+
  
 ## README Table of Conents ##
  
