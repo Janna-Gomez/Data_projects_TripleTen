@@ -1,6 +1,77 @@
 | Project 7 | Zomato | Description |
-| :-----------: | ----------- |----------- |
-| 1 | Norbu stress control| The project task was to analyze user data and find possible causes for the company’s low CR and retention rate. |
-| 2 | [Instacart](https://github.com/zarina-perez/TripleTen_projects/tree/main/02-EDA_project) | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers |
-| 3 | A/A/B Test Analysis | The project task was to study the sales funnel and analyze the results of an A/B test for a food startup. |
-| 4 | Machine Learning Customer Interaction Strategies | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
+
+| :File Number: | Title | Description |
+| 1 | Raw Data| Folder containing restaurant data set and orders data set. |
+| 2 | Despository | The pdf written report for the project proposal |
+| 3 | README.md | The current pagewith all relevant inormation about the project. |
+| 4 | Requirements | The file with requirements provided by TripleTen. |
+| 5 | Zomato.TB.pbix | Power BI save file for easy access to specific DAX, calculations, and measures. |
+
+# Zomato Restaurant Popularity Analysis 
+
+This is the Final project for the TripleTen Business Intelligence Analytics Program.
+It was an independent project designed to showcase learned skills throughout the program.
+The purpose was to complete the Zomato onboarding project to showcase analytical skills to the mock company.
+
+
+  •	This was a Customer Segmentation Analysis.
+  •	7 pages in Power BI.
+  •	Includes bar charts analyzing dimensions of restuarant popularity and influence. 
+
+# Zomato Restaurant Popularity Analysis 
+
+| :Section: | Description | 
+
+| Description | Final project's purpose, software, format, and included visuals |
+| Process | Describes the methods and tech tools used.|
+| Data | Describes the dta source, files, tables, and fields. |
+| Assumptions | Description of assumptions based on the data set and tasks. |
+| Findings | Insights from data analysis. |
+
+
+**Data**:
+Tripleten provided data file:
+restaurants
+orders
+
+•	'year': year data was obtained per dimension
+•	'user_tier': Boolean data categorizing Paid and Free subscribers
+• 'genre': type of genre listened to specified by data string
+• 'number_of_users': SUM of users in per dimension 
+•'tracks_listened': SUM of all msuic plays per dimension
+
+The Google doc provided had the following sections to fill out: 
+• 'Summary'
+• 'Insights'
+• 'Recommendations'
+• 'Visualizations'
+• 'Conclusion'
+
+**Assumptions**: 
+• Data set is comprehensive, accurate, and complete.
+• Insights and Visualizations are reliable and accurately represent provided data
+• Provided Report template is appropriate to present to stakeholders.
+
+**Findings**: 
+User Engagement & Conversion: 
+  •Paid users are more engaged with better retention; a key strategy to improve business would be to convert free users to paid users. 
+  • Indie is popular with paid users while rock is popular with free users; tailoring recommendations per user and offering a rock listeners 
+    incentives to upgrade usership is key in converstion. 
+  •  Hip-hop popularity is on the rise while pop is declining; Fresh Beats should consider when tailoring recommendations and artist promotions. 
+  
+**Recommendations**: 
+
+**Users by Genre Focus**
+Marketing should try focused campaigns targeting typical demographics for fans of these genres.
+It is worth doing deeper research into previous years to understand why pop is on a downwards trend.
+Product/marketing teams should try experiments to generate leads in alternative genres.
+
+**Tracks Focus**
+Paid users are very valuable, so it is worth offering time-limited promotions and other deals to convert users from free to paid.
+Offer users a referral marketing option, so they can get a free trial of the paid tier by referring new users.
+
+**Genre Focus**
+Try promotions focused on rock that offer free trials to convert to paid users.
+We should analyze more ways to increase the engagement of rock-listening users, as a potential growth segment.
+We should analyze user retention in these genres, and consider how we can maximize it.
+Indie is particularly popular with paid users, so focus promotions there. 
