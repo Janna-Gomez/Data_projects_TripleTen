@@ -11,7 +11,7 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 | 4 | E-Commerce Company | **E-Commerce Analysi**s, examining raw transaction logs for an anonymous online retailer and presenting key business insights using spreadsheets.|
 | 5 | Superstore Consult | Conducted an operational review of SuperStore's profits using Tableau to identify financial risks and provide strategic recommendations to prevent bankruptcy. |
 | 6 | Superstore Returns | **Returns analysis** for SuperStore using Tableau, focusing on identifying product return trends to optimize business strategies. |
-
+| 7 | [Zomato]([https://github.com/](https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Zomato]) | **Restaurant Popularity Analysis** with **RFM** for Zomato restaurants via **Power BI**. |
 
 
 
