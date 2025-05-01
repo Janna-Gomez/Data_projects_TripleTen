@@ -1,17 +1,16 @@
 # Manhattan Vacation Rentals #
  
- This was the second independent project for the Tripleten Business Intelligence Analyst program to analyze and report data. This project was used to showcase skills from the Advanced Spreadsheet unit of the course.
-An unnamed property rental agency would like to guidence on property investments.They have asked for an analysis of Airbnb data with insights and would like to know which neighborhoods and property sizes are most attractive to travels and how much money do the listings generate.
- •	Effective music recommendations, especially for highlighting new artists in relevant genres.
+ This was the second independent project for the Tripleten Business Intelligence Analyst program to analyze and report data. The project focused on skills from the Advanced Spreadsheet unit of the course.
+An unnamed property rental agency requested recommendations on property investments.The company asked for an analysis of Airbnb data with insights inquired about which neighborhoods and property sizes are most attractive to travelers and how much money do the listings generate.
 
-## Repository Table of Contents ##
+## Table of Contents ##
  
  | File # | Title | Description |
  | :-----------: | ----------- |----------- |
  | 1 | Manhattan Vacation Rental | Data source provided by Tripleten used for analysis.|
- | 2 | Table of Contents |  |
+ | 2 | Table of Contents | List of items involved in the project |
  | 3 | README.md | Current page provides information of project description. |
- | 4 | Rubric | File of rubric provided by course to complete project.|
+ | 4 | Rubric | File of rubric provided by course to complete the project successfully.|
 
  
 ## README Table of Conents ##
@@ -23,3 +22,14 @@ An unnamed property rental agency would like to guidence on property investments
  | 3 | Assumptions | Provides information of assumptions from Tripleten and factors based on data. |
  | 3 | Findings & Recommendations | Provided insights and recommendations based on data analysis. |
  
+#### Description:
+- 17 page spreadsheet
+- Includes organizational tabs, raw data (Hidden), processed data, data analysis, pivot tables, and bar charts.
+
+#### Process
+
+#### Data
+
+#### Assumptions
+
+#### Finds & Recommendations
