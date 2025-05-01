@@ -14,8 +14,9 @@ The purpose of the project was to complete the Zomato to showcase analytical ski
 | 2 | Despository | The pdf written report for the project proposal |
 | 3 | README.md | The current pagewith all relevant inormation about the project. |
 | 4 | Requirements | The file with requirements provided by TripleTen. |
-| 5 | Zomato.TB.pbix | Power BI save file for easy access to specific DAX, calculations, and measures. |
+| 5 | [Zomato Power BI pdf](https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Zomato%20Project/Report.pdf)| Power BI save file for easy access to specific DAX, calculations, and measures. |
 
+https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Zomato%20Project/Report.pdf
 # Zomato Restaurant Popularity Analysis 
 
 This is the Final project for the TripleTen Business Intelligence Analytics Program.
