@@ -1,62 +1,66 @@
-# Zomato Customer Analysis
+# Fresh Beats Analysis 
 
-## Zomato Restaurant Popularity Analysis 
+This was the first project for the Tripleten Business Intelligence Analyst program to analyze and report data.
+Fresh Beats 🎶, a dynamic online platform revolutionizing the music industry by not only providing a streaming service for music enthusiasts but also serving as a catalyst for up-and-coming musicians to gain visibility.
 
-This is the Final project for the TripleTen Business Intelligence Analytics Program.
-It was an independent project designed to showcase learned skills throughout the program.
-The purpose of the project was to complete the Zomato to showcase analytical skills to direct foodie customers to the best cuisine India has to offer.
+  •	Promoting artists is effective and deliver value for musicians.
+
+  •	Converting free listeners into paying subscribers.
+
+  •	Effective music recommendations, especially for highlighting new artists in relevant genres.
 
 
-### Table of Contents for Project Items
-| File Number | Title | Description |
+| File # | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | Raw Data| Folder containing restaurant data set and orders data set. |
-| 2 | Despository | The pdf written report for the project proposal |
-| 3 | README.md | The current pagewith all relevant inormation about the project. |
-| 4 | Requirements | The file with requirements provided by TripleTen. |
-| 5 | Zomato.TB.pbix | Power BI save file for easy access to specific DAX, calculations, and measures. |
+| 1 | Fresh Beats Project Status Report| The project involved analyzing user data from a music streaming platform and preparing a concise report highlighting key insights to optimize operations and enhance business performance.|
+| 2 | Fresh Beats Data | Data source provided by Tripleten used for analysis. |
+| 3 | README.md | Provides information of project description. |
+| 4 | Requirements | Provides information of project description. |
 
-# Zomato Restaurant Popularity Analysis 
-
-This is the Final project for the TripleTen Business Intelligence Analytics Program.
-It was an independent project designed to showcase learned skills throughout the program.
-The purpose was to complete the Zomato onboarding project to showcase analytical skills to the mock company.
-
-
-  •	This was a Restaurant and Orders Analysis.
-  •	7 pages in Power BI.
-  •	Includes bar charts analyzing dimensions of restuarant popularity and influence. 
-
-# Zomato Restaurant Popularity Analysis 
-
-| :Section: | Description | 
-
-| Description | Final project's purpose, software, format, and included visuals |
-| Process | Describes the methods and tech tools used.|
-| Data | Describes the dta source, files, tables, and fields. |
-| Assumptions | Description of assumptions based on the data set and tasks. |
-| Findings | Insights from data analysis. |
+## Fresh Beats Analysis Report ##
 
 
 **Data**:
-Tripleten provided archived files  from the mock company Zomato, and in this study "orders" and "restaurants" were used. 
-•	'Zomato data.zip': Compressed Excel files provided by team lead
-•	'orders': All orders made from the menu by all customers at all restaurants between Oct. 4th, 2017, and June 26th, 2020.
-•	'users': All customers who completed orders during the designated time frame and their demographic information.
-•	'Measures Table': Created table for analysis and to maintain the integrity of original files. Housing all used measures.
-•	'Calendar': Created table for analysis and to maintain the integrity of original files. Housing all date information for potential calculations.
-•	'Segmentations': Created table for analysis and to maintain the integrity of original files. Housing all segments and RFM scores needed for inclusion.
-•	'RFM Table': Created table for analysis and to maintain the integrity of original files. Housing all RFM calculations.
+Tripleten provided the Google spreadsheet file:
+Sprint 0 Welcome  Sprint
+•	'year': year data was obtained per dimension
+•	'user_tier': Boolean data categorizing Paid and Free subscribers
+• 'genre': type of genre listened to specified by data string
+• 'number_of_users': SUM of users in per dimension 
+•'tracks_listened': SUM of all msuic plays per dimension
+
+The Google doc provided had the following sections to fill out: 
+• 'Summary'
+• 'Insights'
+• 'Recommendations'
+• 'Visualizations'
+• 'Conclusion'
 
 **Assumptions**: 
 • Data set is comprehensive, accurate, and complete.
-• Insights and Visualizations are reliable and accurately represent provided data.
-• The column descriptions accurately reflect the content of each table.
-• Zomato's goal of directing customers to India's best food can be accomplished by an analysis of most popular restaurants. 
+• Insights and Visualizations are reliable and accurately represent provided data
+• Provided Report template is appropriate to present to stakeholders.
 
 **Findings**: 
-Restaurant Success Measurements: 
-  •Restaurant popularity can be measured to direct customers to the best cuisine. 
-  • Restaurants featured in the Top 20 by Order Volumen, HIghest Earning Reenue, and Tope Restaurants should be considered when foodies are searching for a delicious treat. 
-  •  Distinct Count rendered an inaccuracy in the dataset. 
+User Engagement & Conversion: 
+  •Paid users are more engaged with better retention; a key strategy to improve business would be to convert free users to paid users. 
+  • Indie is popular with paid users while rock is popular with free users; tailoring recommendations per user and offering a rock listeners 
+    incentives to upgrade usership is key in converstion. 
+  •  Hip-hop popularity is on the rise while pop is declining; Fresh Beats should consider when tailoring recommendations and artist promotions. 
   
+**Recommendations**: 
+
+**Users by Genre Focus**
+Marketing should try focused campaigns targeting typical demographics for fans of these genres.
+It is worth doing deeper research into previous years to understand why pop is on a downwards trend.
+Product/marketing teams should try experiments to generate leads in alternative genres.
+
+**Tracks Focus**
+Paid users are very valuable, so it is worth offering time-limited promotions and other deals to convert users from free to paid.
+Offer users a referral marketing option, so they can get a free trial of the paid tier by referring new users.
+
+**Genre Focus**
+Try promotions focused on rock that offer free trials to convert to paid users.
+We should analyze more ways to increase the engagement of rock-listening users, as a potential growth segment.
+We should analyze user retention in these genres, and consider how we can maximize it.
+Indie is particularly popular with paid users, so focus promotions there.
