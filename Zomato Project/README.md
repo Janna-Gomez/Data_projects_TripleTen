@@ -27,7 +27,7 @@ The purpose was to complete the Zomato onboarding project to showcase analytical
   •	7 pages in Power BI.
   •	Includes bar charts analyzing dimensions of restuarant popularity and influence. 
 
-# Zomato Restaurant Popularity Analysis 
+
 
 | :Section: | Description | 
 
