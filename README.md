@@ -12,7 +12,6 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 | 5 | [SuperStore Consult](https://github.com/Janna-Gomez/Data_projects_TripleTen/tree/main/SuperStore%20Consult)| Conducted an operational review of SuperStore's profits using Tableau to identify financial risks and provide strategic recommendations to prevent bankruptcy. |
 | 6 | Superstore Returns | **Returns analysis** for SuperStore using Tableau, focusing on identifying product return trends to optimize business strategies. |
 | 7 | [Zomato](https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Zomato) | **Restaurant Popularity Analysis** with **RFM** for Zomato restaurants via **Power BI**. |
-
-
+| 8| [Sleep Efficiency Code Pudding Competition Project](https://github.com/Janna-Gomez/Data_projects_TripleTen/tree/main/Sleep%20Efficiency%20-%20CODE%20PUDDING%20COMPETITION) | **Restaurant Popularity Analysis** with **RFM** for Zomato restaurants via **Power BI**. |
 
 
