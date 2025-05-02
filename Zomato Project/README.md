@@ -69,5 +69,7 @@ Restaurant Success Measurements
 
 -Distinct Count rendered an inaccuracy in the dataset. 
   
-[<img src="https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Zomato%20Project/Report.pdf">]
-
+[<img src="https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Zomato%20Project/Top%2020%20Restaurants.png">]
+[<img src="https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Zomato%20Project/Top%2020%20Restaurants%20per%20Order.png">]
+[<img src="https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Zomato%20Project/Highest%20Earning%20Restaurants.png">]
+[<img src="https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Zomato%20Project/Individual%20Restaurants%20%26%20Visits.png">]
