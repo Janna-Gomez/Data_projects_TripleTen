@@ -11,7 +11,7 @@ In the analysis of Airbnb rentals in Manhattan, based on the number of reviews f
 | 1 | [Manhattan Vacation Rental](https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Fresh%20Beats/Janna%20Gomez%20-%20Project%20Status%20Report.docx)| Data source provided by Tripleten used for analysis.|
 | 2 | [README.md](https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Fresh%20Beats/Janna%20Gomez%20-%20Project%20Status%20Report.docx)| Current page provides information of project description. |
 | 4 | [Rubric](https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Manhattan%20Rentals/Project_Rubric.pdf )|  File of rubric provided by course to complete the project successfully.|
-| 5 | [Requirements](https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Manhattan%20Rentals/Requirements.txt)|  File of rubric provided by course to complete the project successfully.|
+| 5 | [Requirements](https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Manhattan%20Rentals/Requirements.txt)|  Description and requirements of project provided by Tripleten to complete the project successfully.|
 
 ## README Table of Conents ##
  
