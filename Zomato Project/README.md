@@ -1,12 +1,5 @@
 # Zomato Customer Analysis
 
-## Zomato Restaurant Popularity Analysis 
-
-This is the Final project for the TripleTen Business Intelligence Analytics Program.
-It was an independent project designed to showcase learned skills throughout the program.
-The purpose of the project was to complete the Zomato to showcase analytical skills to direct foodie customers to the best cuisine India has to offer.
-
-
 ### Table of Contents for Project Items
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
@@ -16,17 +9,7 @@ The purpose of the project was to complete the Zomato to showcase analytical ski
 | 4 | [Requirements](https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Zomato%20Project/Requirements.txt)| The file with requirements provided by TripleTen. |
 | 5 | [Zomato Power BI pdf](https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Zomato%20Project/Report.pdf)| PDF of work on Power BI to view specific DAX, calculations, and measures. |
 
-
 # Zomato Restaurant Popularity Analysis 
-
-This is the Final project for the TripleTen Business Intelligence Analytics Program.
-It was an independent project designed to showcase learned skills throughout the program.
-The purpose was to complete the Zomato onboarding project to showcase analytical skills to the mock company.
-
-
--	This was a Restaurant and Orders Analysis.
--	7 pages in Power BI.
--	Includes bar charts analyzing dimensions of restuarant popularity and influence. 
 
 | Section| Description | 
 | :-----------: | ----------- |
@@ -35,6 +18,22 @@ The purpose was to complete the Zomato onboarding project to showcase analytical
 | Data | Describes the dta source, files, tables, and fields. |
 | Assumptions | Description of assumptions based on the data set and tasks. |
 | Findings | Insights from data analysis. |
+
+
+**Description**
+This is the Final project for the TripleTen Business Intelligence Analytics Program.
+It was an independent project designed to showcase learned skills throughout the program.
+The purpose was to complete the Zomato onboarding project to showcase analytical skills to the mock company.
+
+-	This was a Restaurant and Orders Analysis.
+-	7 pages in Power BI.
+-	Includes bar charts analyzing dimensions of restuarant popularity and influence. 
+
+**Process**
+
+-Column for Restaurant name & (ID)
+
+-Set all recorded currency to INR
 
 
 **Data**:
@@ -51,6 +50,7 @@ Tripleten provided archived files  from the mock company Zomato, and in this stu
 
 
 **Assumptions**: 
+
 • Data set is comprehensive, accurate, and complete.
 
 • Insights and Visualizations are reliable and accurately represent provided data.
@@ -68,7 +68,8 @@ Restaurant Success Measurements
 -Restaurants featured in the Top 20 by Order Volumen, Highest Earning Revenue, and Top Restaurants should be considered when foodies are searching for a delicious treat. 
 
 -Distinct Count rendered an inaccuracy in the dataset. 
-  
+
+**Power BI Visuals**
 [<img src="https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Zomato%20Project/Top%2020%20Restaurants.png">]
 [<img src="https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Zomato%20Project/Top%2020%20Restaurants%20per%20Order.png">]
 [<img src="https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Zomato%20Project/Highest%20Earning%20Restaurants.png">]
