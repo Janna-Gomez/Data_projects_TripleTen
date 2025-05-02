@@ -24,9 +24,9 @@ It was an independent project designed to showcase learned skills throughout the
 The purpose was to complete the Zomato onboarding project to showcase analytical skills to the mock company.
 
 
-  •	This was a Restaurant and Orders Analysis.
-  •	7 pages in Power BI.
-  •	Includes bar charts analyzing dimensions of restuarant popularity and influence. 
+-	This was a Restaurant and Orders Analysis.
+-	7 pages in Power BI.
+-		Includes bar charts analyzing dimensions of restuarant popularity and influence. 
 
 
 
