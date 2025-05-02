@@ -12,10 +12,9 @@ Fresh Beats 🎶, a dynamic online platform revolutionizing the music industry b
 
 | File # | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | Fresh Beats Project Analysis Report| The project involved analyzing user data from a music streaming platform and preparing a concise report highlighting key insights to optimize operations and enhance business performance.|
-| 2 | [Fresh Beats Project Report](https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Fresh%20Beats/Requirements.txt)| Provides information of project description. |
-| 2 | [Fresh Beats Data](https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Fresh%20Beats/Requirements.txt)| Provides information of project description. |
- | 3 |  [README.mds](https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Fresh%20Beats/Requirements.txt)| Provides information of project description. |
+| 1 | [Fresh Beats Status Report](https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Fresh%20Beats/Janna%20Gomez%20-%20Project%20Status%20Report.docx)| Final status report of analysis. |
+| 2 | [Fresh Beats Data](https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Fresh%20Beats/Copy%20of%20BIA%20Welcome%20Sprint%20Project.%20Fresh%20Beats%20User%20Data.xlsx)| Copy of the dataset provided by TripleTen. |
+ | 3 |  [README.mds](https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Fresh%20Beats/README.md)| Provides information of project description. |
  | 4 |  [Requirements](https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Fresh%20Beats/Requirements.txt)| Provides information about project description. |
 
 
