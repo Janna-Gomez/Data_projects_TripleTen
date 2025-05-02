@@ -69,3 +69,5 @@ Restaurant Success Measurements
 
 -Distinct Count rendered an inaccuracy in the dataset. 
   
+[<img src="https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Zomato%20Project/Report.pdf">]
+
