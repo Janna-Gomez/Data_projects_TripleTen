@@ -64,3 +64,7 @@ Try promotions focused on rock that offer free trials to convert to paid users.
 We should analyze more ways to increase the engagement of rock-listening users, as a potential growth segment.
 We should analyze user retention in these genres, and consider how we can maximize it.
 Indie is particularly popular with paid users, so focus promotions there.
+
+[<img src="https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Fresh%20Beats/Graph%201.png">]
+[<img src="https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Fresh%20Beats/Graph%202.png">]
+[<img src="https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Fresh%20Beats/Graph%203.png">]
