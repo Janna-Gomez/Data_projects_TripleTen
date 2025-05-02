@@ -28,7 +28,7 @@ The team examined and researched all sleep stages provided in the dataset and co
 - all other sleep variables
 - gender
 - lifestyle choices
-- 
+  
 #### Data
 The dataset selected by the team was one Excel spreadsheet file provided by TripleTen.:
 - `'Sleep.xls'`: each row corresponds to one individuals sleep and behavavior.
