@@ -10,8 +10,8 @@ The purpose of the project was to complete the Zomato to showcase analytical ski
 ### Table of Contents for Project Items
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | Raw Data| Folder containing restaurant data set and orders data set. |
-| 2 | Despository | The pdf written report for the project proposal |
+| 1|  [Despository](https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Zomato%20Project/Decomposition.pdf)| Folder containing restaurant data set and orders data set. |
+| 2|  [Dataset](https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Zomato%20Project/Decomposition.pdf)| Folder containing restaurant data set and orders data set. |
 | 3 | README.md | The current pagewith all relevant inormation about the project. |
 | 4 | Requirements | The file with requirements provided by TripleTen. |
 | 5 | [Zomato Power BI pdf](https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Zomato%20Project/Report.pdf)| PDF of work on Power BI to view specific DAX, calculations, and measures. |
@@ -27,6 +27,8 @@ The purpose was to complete the Zomato onboarding project to showcase analytical
 -	This was a Restaurant and Orders Analysis.
 -	7 pages in Power BI.
 -		Includes bar charts analyzing dimensions of restuarant popularity and influence. 
+
+
 
 
 
