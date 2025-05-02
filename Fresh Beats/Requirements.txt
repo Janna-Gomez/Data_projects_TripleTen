@@ -1,0 +1,9 @@
+You’ll prepare a concise report summarizing what you’ve learned, report key findings, and write recommendations for Fresh Beats 🎶, a dynamic online platform revolutionizing the music industry by not only providing a streaming service for music enthusiasts but also serving as a catalyst for up-and-coming musicians to gain visibility.
+
+Your report should be presented in a format suitable for stakeholders, providing them with valuable insights into the success and areas for improvement in how to engage users with the platform. Use the report template provided above.
+
+As a beginning Business Intelligence Analyst, your role in this project will be to select appropriate insights and visualizations from those provided and relate them to the business challenges. In future sprints, you’ll learn how to create these analyses and charts for yourself!
+
+Your next steps will be to look at the material you’re given — the dataset, visualizations, and insights. Take your time to look over all of them before deciding where to include them in your report, but remember that at this time you don’t need to dive into the calculations yourself.
+
+Your goal is to understand the logic that connects the visuals and the findings, and how they relate to the business challenges and recommendations. You’ll have to connect insights with visuals and argumentation based on business needs, business insights, and stakeholders’ requests and put them into the report template. Feel free to look back at the sprint to review any concepts!
