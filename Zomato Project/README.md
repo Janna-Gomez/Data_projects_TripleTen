@@ -26,14 +26,10 @@ The purpose was to complete the Zomato onboarding project to showcase analytical
 
 -	This was a Restaurant and Orders Analysis.
 -	7 pages in Power BI.
--		Includes bar charts analyzing dimensions of restuarant popularity and influence. 
+-	Includes bar charts analyzing dimensions of restuarant popularity and influence. 
 
-
-
-
-
-| :Section: | Description | 
-
+| Section| Description | 
+| :-----------: | ----------- |
 | Description | Final project's purpose, software, format, and included visuals |
 | Process | Describes the methods and tech tools used.|
 | Data | Describes the dta source, files, tables, and fields. |
@@ -42,24 +38,34 @@ The purpose was to complete the Zomato onboarding project to showcase analytical
 
 
 **Data**:
+
 Tripleten provided archived files  from the mock company Zomato, and in this study "orders" and "restaurants" were used. 
+
 •	'Zomato data.zip': Compressed Excel files provided by team lead
+
 •	'orders': All orders made from the menu by all customers at all restaurants between Oct. 4th, 2017, and June 26th, 2020.
+
 •	'users': All customers who completed orders during the designated time frame and their demographic information.
-•	'Measures Table': Created table for analysis and to maintain the integrity of original files. Housing all used measures.
+
 •	'Calendar': Created table for analysis and to maintain the integrity of original files. Housing all date information for potential calculations.
-•	'Segmentations': Created table for analysis and to maintain the integrity of original files. Housing all segments and RFM scores needed for inclusion.
-•	'RFM Table': Created table for analysis and to maintain the integrity of original files. Housing all RFM calculations.
+
 
 **Assumptions**: 
 • Data set is comprehensive, accurate, and complete.
+
 • Insights and Visualizations are reliable and accurately represent provided data.
+
 • The column descriptions accurately reflect the content of each table.
+
 • Zomato's goal of directing customers to India's best food can be accomplished by an analysis of most popular restaurants. 
 
 **Findings**: 
-Restaurant Success Measurements: 
-  •Restaurant popularity can be measured to direct customers to the best cuisine. 
-  • Restaurants featured in the Top 20 by Order Volumen, HIghest Earning Reenue, and Tope Restaurants should be considered when foodies are searching for a delicious treat. 
-  •  Distinct Count rendered an inaccuracy in the dataset. 
+
+Restaurant Success Measurements
+
+-Restaurant popularity can be measured to direct customers to the best cuisine. 
+
+-Restaurants featured in the Top 20 by Order Volumen, Highest Earning Revenue, and Top Restaurants should be considered when foodies are searching for a delicious treat. 
+
+-Distinct Count rendered an inaccuracy in the dataset. 
   
