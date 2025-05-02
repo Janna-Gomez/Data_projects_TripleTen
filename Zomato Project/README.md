@@ -10,7 +10,7 @@ The purpose of the project was to complete the Zomato to showcase analytical ski
 ### Table of Contents for Project Items
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1|  [Despository](https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Zomato%20Project/Decomposition.pdf)| Folder containing restaurant data set and orders data set. |
+| 1|  [Decomposition](https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Zomato%20Project/Decomposition.pdf)| Folder containing restaurant data set and orders data set. |
 | 2|  [Dataset](https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Zomato%20Project/Decomposition.pdf)| Folder containing restaurant data set and orders data set. |
 | 3 | [README](https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Zomato%20Project/README.md) | The current pagewith all relevant inormation about the project. |
 | 4 | [Requirements](https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Zomato%20Project/Requirements.txt)| The file with requirements provided by TripleTen. |
