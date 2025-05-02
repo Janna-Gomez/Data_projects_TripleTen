@@ -7,10 +7,9 @@ An unnamed property rental agency requested recommendations on property investme
  
  | File # | Title | Description |
  | :-----------: | ----------- |----------- |
- | 1 | Manhattan Vacation Rental | Data source provided by Tripleten used for analysis.|
- | 2 | Table of Contents | List of items involved in the project |
- | 3 | README.md | Current page provides information of project description. |
- | 4 | Rubric | File of rubric provided by course to complete the project successfully.|
+| 1 | [Manhattan Vacation Rental](https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Fresh%20Beats/Janna%20Gomez%20-%20Project%20Status%20Report.docx)| Data source provided by Tripleten used for analysis.|
+| 2 | [README.md](https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Fresh%20Beats/Janna%20Gomez%20-%20Project%20Status%20Report.docx)| Current page provides information of project description. |
+| 4 | [Rubric](https://github.com/Janna-Gomez/Data_projects_TripleTen/blob/main/Manhattan%20Rentals/Project_Rubric.pdf )|  File of rubric provided by course to complete the project successfully.|
 
  
 ## README Table of Conents ##
