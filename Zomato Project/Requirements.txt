@@ -1,0 +1,27 @@
+For the next 2 weeks, you’ll be a junior analyst going through an onboarding process in a tech company. While completing the onboarding assignment, you’ll be responsible for your own research, just like you can expect in your new career.
+
+During the project, you’ll be in close communication with your team leader, who will be setting tasks, providing feedback, and assessing your results. You’ll also be able to discuss the tasks with your fellow students.
+
+This final project isn’t intended to drown you in an ocean of difficult work. Instead, we want to give you the chance to utilize and systematize all of your newfound knowledge, and adapt it to the working environment.
+
+Roles
+During this project, you will be playing the role of a junior analyst, and the independent project you complete will help solve a real business problem.
+
+One of our tutors will be playing the role of the team leader. Your team leader will explain the business case and help you and your teammates to successfully complete the project. The business problem is a relatively complex, voluminous task. It will be divided into several parts, meaning it’s up to you to decide what to focus your research on, and then make your own plan.
+
+There will be two main project stages: decomposition (planning your project) and the project itself (execution of the project plan which results in a dashboard and conclusions). In line with this overview, there are certain deliverables you will have to produce. Regardless of what you choose to analyze for the project, every student will need to submit:
+
+Decomposition or a detailed plan of their analysis and ideas for a dashboard.
+A dashboard as the final product of your research and a report that includes the findings done during your analysis.
+Don’t stress! You’ll have the same team leader throughout the entire project, and they’ll help you choose the right strategy for you and the team. They’ll also provide you with feedback on your work, which will help you improve your code and make corrections. Your team leader will assess and approve your research plan, as well as perform a review of your final conclusions and accept the dashboard.
+
+As usual, the learning coaches will help you with the organizational side of the process.
+
+Communication
+You’ll be communicating over Discord and will need to join the final-project-bia channel to communicate with your peers and the team leader.
+
+In this channel, you can ask your team leader and peers questions about the tasks, business, or data itself. Treat this channel like a professional working chat and use it accordingly.
+
+After reading your task, think of some clarifying questions. You’ll be assigned a tutor who will act as your “team lead” for this project (your learning coach will provide this information). After reading the task, collecting the first questions that come to mind, and outlining the preliminary work plan, message your tutor on Discord and set up a virtual meeting with them. During this meeting, you’ll be able to ask your questions, get some guidance on how to structure your work, make sure everyone is on the same page, and decide on the next steps.
+
+You can also message your learning coach for any organizational questions and assistance.
