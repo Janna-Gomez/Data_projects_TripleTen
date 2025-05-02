@@ -1,0 +1,174 @@
+neighborhood_clean,bedrooms_clean,SUM of number_of_reviews_ltm
+Lower East Side,6,51
+,4,18
+,3,2
+,2,429
+,1,5399
+,0,343
+Lower East Side Total,,6242
+Hell'S Kitchen,7,27
+,4,7
+,3,394
+,2,2470
+,1,2204
+,0,404
+Hell'S Kitchen Total,,5506
+Harlem,5,165
+,4,228
+,3,494
+,2,1320
+,1,2126
+,0,824
+Harlem Total,,5157
+Midtown,4,51
+,3,52
+,2,488
+,1,908
+,0,2629
+Midtown Total,,4128
+Upper West Side,5,55
+,4,33
+,3,521
+,2,847
+,1,1639
+,0,402
+Upper West Side Total,,3497
+Chelsea,6,3
+,3,76
+,2,958
+,1,1095
+,0,781
+Chelsea Total,,2913
+East Village,4,68
+,3,110
+,2,626
+,1,1332
+,0,436
+East Village Total,,2572
+East Harlem,4,131
+,3,101
+,2,639
+,1,899
+,0,405
+East Harlem Total,,2175
+West Village,4,53
+,3,162
+,2,402
+,1,907
+,0,211
+West Village Total,,1735
+Upper East Side,8,23
+,5,41
+,4,85
+,3,61
+,2,407
+,1,885
+,0,194
+Upper East Side Total,,1696
+Nolita,3,11
+,2,119
+,1,1263
+,0,112
+Nolita Total,,1505
+Financial District,2,261
+,1,218
+,0,633
+Financial District Total,,1112
+Chinatown,4,50
+,3,59
+,2,294
+,1,378
+,0,113
+Chinatown Total,,894
+Washington Heights,4,39
+,3,71
+,2,198
+,1,432
+,0,33
+Washington Heights Total,,773
+Kips Bay,4,23
+,3,1
+,2,91
+,1,371
+,0,136
+Kips Bay Total,,622
+Gramercy,3,27
+,2,29
+,1,299
+,0,218
+Gramercy Total,,573
+Soho,3,110
+,2,127
+,1,202
+,0,42
+Soho Total,,481
+Inwood,3,3
+,2,89
+,1,266
+,0,3
+Inwood Total,,361
+Ellis Island,3,0
+,2,118
+,1,206
+,0,34
+Ellis Island Total,,358
+Battery Park City,2,0
+,1,202
+,0,146
+Battery Park City Total,,348
+Murray Hill,3,2
+,2,1
+,1,208
+,0,130
+Murray Hill Total,,341
+Greenwich Village,4,0
+,3,1
+,2,104
+,1,117
+,0,89
+Greenwich Village Total,,311
+Little Italy,3,33
+,2,65
+,1,148
+Little Italy Total,,246
+Theater District,2,162
+,1,37
+,0,10
+Theater District Total,,209
+Tribeca,4,0
+,3,3
+,2,61
+,1,109
+Tribeca Total,,173
+Noho,3,0
+,2,46
+,1,109
+Noho Total,,155
+Flatiron District,2,26
+,1,52
+,0,34
+Flatiron District Total,,112
+Marble Hill,3,38
+,2,36
+Marble Hill Total,,74
+Two Bridges,3,0
+,1,38
+,0,5
+Two Bridges Total,,43
+Central Park,2,16
+,1,21
+,0,0
+Central Park Total,,37
+Stuyvesant Town,3,0
+,1,5
+Stuyvesant Town Total,,5
+Morningside Heights,2,0
+,1,4
+Morningside Heights Total,,4
+Civic Center,4,1
+,1,0
+,0,1
+Civic Center Total,,2
+Roosevelt Island,1,1
+Roosevelt Island Total,,1
+Grand Total,,44361
